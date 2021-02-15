@@ -19,9 +19,7 @@ def return_lowercased_string(input_string):
     """You have a variable called input_string that is of type string.
     Return it but the lowercase version of it."""
 
-    return_value = "hi there mom"
-    return_value = "vcu.edu"
-    return_value = "we wish you a merry monday"
+    return_value = input_string.lower()
     return return_value
 
 
@@ -36,5 +34,5 @@ def return_without_starting_ending_whitespace(input_string):
 def return_addition(first_number, second_number):
     """ Return the two numbers added together. """
 
-    return_addition= 3
-    return return_addition
+    return_value= first_number + second_number
+    return return_value
