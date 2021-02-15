@@ -27,7 +27,7 @@ def return_without_starting_ending_whitespace(input_string):
     """You have a variable called input_string that is of type string.
     Return it but with the surrounding (left and right) whitespace stripped."""
 
-    return_value = "asdfasdf"
+    return_value = input_string.strip()
     return return_value
 
 
