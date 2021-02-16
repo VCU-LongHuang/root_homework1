@@ -6,6 +6,4 @@
 
 ![Super-Linter](https://github.com/VCU-LongHuang/root_homework1/workflows/Super-Linter/badge.svg)
 
-For homework:
 
-https://github.com/VCU-LongHuang/root_homework1/workflows/Pylint/badge.svg
